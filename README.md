@@ -8,8 +8,15 @@ A Power BI project analyzing customer churn trends and key factors influencing r
 
 Customer churn is a critical metric for understanding customer loyalty and the overall health of a business. This project leverages Power BI to:
 - Visualize customer churn trends.
+- 
 - Highlight key drivers of churn.
+- 
 - Provide predictive insights.
+
+## Tools & Technologies
+- **Power BI** - Data visualization & dashboard creation
+- **DAX** - Data Analysis Expressions
+- **Power Query** - Data transformation & cleaning
 
 
 ## Key Features
