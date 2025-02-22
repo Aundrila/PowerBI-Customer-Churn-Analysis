@@ -28,3 +28,11 @@ Customer churn is a critical metric for understanding customer loyalty and the o
   - Product usage patterns.
 - Predictive insights and recommendations for improving retention rates.
 
+## Key Insights
+
+- **Long-term customers churn less** – Higher tenure customers are more likely to stay.
+- **Contract type affects churn** – Monthly subscribers have a significantly higher churn rate than annual contract users.
+- **Additional services impact retention** – Customers with bundled services (e.g., internet + phone) show lower churn rates.
+- **Billing method matters** – Auto-payment users are less likely to churn than those using manual billing.
+
+
